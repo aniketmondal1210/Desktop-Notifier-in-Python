@@ -26,6 +26,7 @@ pip install requests notify2
 1. Clone the repository:
   
   git clone https://github.com/aniketmondal1210/Desktop-News-Notifier.git
+
   cd Desktop-News-Notifier
 
 2. Replace the ICON_PATH in notifier.py with the full path to your icon image 🖼️.
